@@ -1,7 +1,7 @@
 <template>
     <div class="navbar-fixed">
         <nav class="nav-wrapper red darken-4">
-            <span class="brand-logo center">Cadastro</span>
+            <span class="brand-logo center">Cadastro de Disciplinas</span>
         </nav>
     </div>
 </template>
